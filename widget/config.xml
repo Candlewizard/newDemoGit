@@ -145,9 +145,9 @@
 		<param name="urlScheme" value="tbopen24613905"/>
 	</feature>
  -->
-	<feature name="aliPush">
+	<!-- <feature name="aliPush">
 		<param name="AppKey" value="23420104"/>
 		<param name="AppSecret" value="4a8e90a279c7c116883925cc0b5784bc"/>
 		<param name="autoRegister" value="true"/>
-	</feature>
+	</feature> -->
 </widget>
